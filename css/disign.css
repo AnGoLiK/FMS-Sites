@@ -137,7 +137,14 @@ hr {
     display: flex;
     align-items: center;
     justify-content: center;
-
+}
+figure {
+    display:flex;
+    justify-content: center;
+}
+audio {
+    margin-top:25px;
+    width:400px;
 }
 
 
