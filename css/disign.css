@@ -255,6 +255,9 @@ audio {
         position: relative;
         bottom: 20px;
     }
+    .vstr {
+    font-size: 30px;
+    }
 }
 @media (max-width: 383px) {
     .logo {
