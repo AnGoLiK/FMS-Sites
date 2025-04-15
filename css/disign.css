@@ -256,7 +256,9 @@ audio {
         bottom: 20px;
     }
     .vstr {
-    font-size: 30px;
+    font-size: 28px;
+    line-height: 28px;
+    font-weight:bold;
     }
 }
 @media (max-width: 383px) {
