@@ -236,7 +236,7 @@ audio {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 470px) {
     .zagl {
         font-size: 28px;
     }
